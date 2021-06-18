@@ -8,4 +8,10 @@
   [![Twitter](https://img.shields.io/twitter/follow/baris_demirhan?color=%231da1f2&logo=twitter&logoColor=white&label=Twitter&style=flat-square)](https://twitter.com/baris_demirhan)
 </p>
   </td>
+  </tr>
+  <tr>
+    <td>
+      <p>[![Twitter](https://github-readme-stats.vercel.app/api?username=barisdemirhan&count_private=true&show_icons=true&theme=vue)]</p>
+    </td>
+  </tr>
   </table>
